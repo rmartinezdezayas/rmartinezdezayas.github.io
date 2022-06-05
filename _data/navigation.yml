@@ -1,12 +1,6 @@
 # main links
 main:
-  - title: "Test head"
-    url: https://rmartinezdezayas.github.io/archive-layout-with-content/
+  - title: "Posts"
+    url: https://rmartinezdezayas.github.io
   # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: https://rmartinezdezayas.github.io/about/

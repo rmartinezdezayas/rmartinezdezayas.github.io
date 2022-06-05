@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Gabriel | GitHub Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Roberto Gabriel Martínez de Zayas"
+name                     : "Roberto Gabriel Martinez de Zayas"
 description              : "Gabriel GitHub Blog"
 url                      : "https://rmartinezdezayas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Roberto Gabriel Martínez de Zayas"
-  avatar           : ""/assets/img/linked in.jpg" " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/linked in.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Engineer, Data Scientist and Business Intelligence Consultant."
   location         : "Madrid"
   email            :

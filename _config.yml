@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rmartinezdezayas@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/roberto-gabriel-martinez-de-zayas-118128136/"
     - label: "Website"
       icon: "fas fa-fw fa-link"

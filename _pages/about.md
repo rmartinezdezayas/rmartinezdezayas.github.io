@@ -2,7 +2,7 @@
 title: "About Gabriel"
 excerpt: "Info about Gabriel | GitHub Blog"
 sitemap: false
-permalink: /about/
+permalink: /aabout/
 ---
 
 Hi, I'm Gabriel, passionate about the data world.

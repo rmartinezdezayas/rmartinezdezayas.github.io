@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rmartinezdezayas@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/roberto-gabriel-martinez-de-zayas-118128136/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

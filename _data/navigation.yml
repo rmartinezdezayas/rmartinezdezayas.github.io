@@ -2,5 +2,7 @@
 main:
   - title: "Posts"
     url: https://rmartinezdezayas.github.io
-  # - title: "About"
-  #   url: https://rmartinezdezayas.github.io/about/
+  - title: "Categories"
+    url: https://rmartinezdezayas.github.io/categories/
+  - title: "About"
+    url: https://rmartinezdezayas.github.io/about/

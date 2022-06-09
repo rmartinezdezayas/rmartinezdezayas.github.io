@@ -1,6 +1,3 @@
----
-title: "My first Blog entry. Welcome!"
----
 Hi, I'm Gabriel, passionate about the data world.
 
 **Welcome to my first blog entry!**

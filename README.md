@@ -1,6 +1,6 @@
-Hi, I'm Gabriel, passionate about the data world.
+**Welcome to my blog!**
 
-**Welcome to my first blog entry!**
+Hi, I'm Gabriel, passionate about the data world.
 
 ### Who am I?
 I'm a data lover based in Madrid, Spain.
